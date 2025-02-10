@@ -1,0 +1,107 @@
+2025-02-10 11:16:51.186 [INFO] [main] [Utils] - [TestNG] Running:
+  C:\Users\TshifhiwaSinugo\AppData\Local\JetBrains\Aqua2024.1\temp-testng-customsuite.xml
+
+2025-02-10 11:17:00.887 [INFO] [main] [TestBase] - Setup initialized successfully.
+2025-02-10 11:17:01.299 [INFO] [main] [BasePage] - Element Sign in Link has been clicked
+2025-02-10 11:17:02.153 [INFO] [main] [BasePage] - Element Email has been entered
+2025-02-10 11:17:02.368 [INFO] [main] [BasePage] - Element Password has been entered
+2025-02-10 11:17:02.685 [INFO] [main] [BasePage] - Element Login Button has been clicked
+2025-02-10 11:17:49.936 [INFO] [main] [Utils] - [TestNG] Running:
+  C:\Users\TshifhiwaSinugo\AppData\Local\JetBrains\Aqua2024.1\temp-testng-customsuite.xml
+
+2025-02-10 11:17:54.857 [INFO] [main] [TestBase] - Setup initialized successfully.
+2025-02-10 11:17:55.104 [INFO] [main] [BasePage] - Element Sign in Link has been clicked
+2025-02-10 11:17:55.357 [INFO] [main] [BasePage] - Element Email has been entered
+2025-02-10 11:17:55.469 [INFO] [main] [BasePage] - Element Password has been entered
+2025-02-10 11:17:55.620 [INFO] [main] [BasePage] - Element Login Button has been clicked
+2025-02-10 11:39:27.493 [INFO] [main] [Utils] - [TestNG] Running:
+  C:\Users\TshifhiwaSinugo\AppData\Local\JetBrains\Aqua2024.1\temp-testng-customsuite.xml
+
+2025-02-10 11:39:36.473 [INFO] [main] [TestBase] - Setup initialized successfully.
+2025-02-10 11:39:36.594 [INFO] [main] [BasePage] - Element 'Tool Shop Logo' is visible
+2025-02-10 11:39:36.864 [INFO] [main] [BasePage] - Element Sign in Link has been clicked
+2025-02-10 11:39:37.185 [INFO] [main] [BasePage] - Element Register Link has been clicked
+2025-02-10 11:39:37.634 [ERROR] [main] [JsonDataReader] - Failed to load JSON file src\test\resources\registrationData.json (The system cannot find the file specified)
+2025-02-10 11:40:27.382 [INFO] [main] [Utils] - [TestNG] Running:
+  C:\Users\TshifhiwaSinugo\AppData\Local\JetBrains\Aqua2024.1\temp-testng-customsuite.xml
+
+2025-02-10 11:40:32.639 [INFO] [main] [TestBase] - Setup initialized successfully.
+2025-02-10 11:40:32.753 [INFO] [main] [BasePage] - Element 'Tool Shop Logo' is visible
+2025-02-10 11:40:32.974 [INFO] [main] [BasePage] - Element Sign in Link has been clicked
+2025-02-10 11:40:33.273 [INFO] [main] [BasePage] - Element Register Link has been clicked
+2025-02-10 11:40:33.644 [INFO] [main] [BasePage] - Element First Name has been entered
+2025-02-10 11:40:33.823 [INFO] [main] [BasePage] - Element Last Name has been entered
+2025-02-10 11:40:33.889 [INFO] [main] [BasePage] - Element Date of Birth has been cleared
+2025-02-10 11:40:34.008 [INFO] [main] [BasePage] - Element Date Of Birth has been entered
+2025-02-10 11:40:34.192 [INFO] [main] [BasePage] - Element Address has been entered
+2025-02-10 11:40:34.322 [INFO] [main] [BasePage] - Element Postal Code has been entered
+2025-02-10 11:40:34.478 [INFO] [main] [BasePage] - Element City has been entered
+2025-02-10 11:40:34.696 [INFO] [main] [BasePage] - Element State has been entered
+2025-02-10 11:40:35.000 [INFO] [main] [BasePage] - Element Country has been selected using 'Visible Text' 
+2025-02-10 11:40:35.260 [INFO] [main] [BasePage] - Element Phone Number has been entered
+2025-02-10 11:40:35.514 [INFO] [main] [BasePage] - Element Email has been entered
+2025-02-10 11:40:35.681 [INFO] [main] [BasePage] - Element Password has been entered
+2025-02-10 11:40:35.881 [INFO] [main] [BasePage] - Element Register Button has been clicked
+2025-02-10 12:15:43.440 [INFO] [main] [Utils] - [TestNG] Running:
+  C:\Users\TshifhiwaSinugo\AppData\Local\JetBrains\Aqua2024.1\temp-testng-customsuite.xml
+
+2025-02-10 12:15:49.768 [INFO] [main] [TestBase] - Setup initialized successfully.
+2025-02-10 12:15:50.051 [INFO] [main] [BasePage] - Element Sign in Link has been clicked
+2025-02-10 12:15:50.312 [INFO] [main] [BasePage] - Element Email has been entered
+2025-02-10 12:15:50.473 [INFO] [main] [BasePage] - Element Password has been entered
+2025-02-10 12:15:50.670 [INFO] [main] [BasePage] - Element Login Button has been clicked
+2025-02-10 12:15:54.398 [INFO] [main] [BasePage] - Element 'Profile' is visible
+2025-02-10 12:15:54.846 [INFO] [main] [BasePage] - Element Home has been clicked
+2025-02-10 12:15:56.562 [INFO] [main] [BasePage] - Element Combination Pliers has been clicked
+2025-02-10 12:15:58.153 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:15:58.344 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:15:58.770 [INFO] [main] [BasePage] - Element Home has been clicked
+2025-02-10 12:16:00.259 [INFO] [main] [BasePage] - Element Bolt Cutters has been clicked
+2025-02-10 12:16:01.920 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:16:02.122 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:57:06.836 [INFO] [main] [Utils] - [TestNG] Running:
+  C:\Users\TshifhiwaSinugo\AppData\Local\JetBrains\Aqua2024.1\temp-testng-customsuite.xml
+
+2025-02-10 12:57:25.388 [INFO] [main] [TestBase] - Setup initialized successfully.
+2025-02-10 12:57:25.624 [INFO] [main] [BasePage] - Element Sign in Link has been clicked
+2025-02-10 12:57:25.847 [INFO] [main] [BasePage] - Element Email has been entered
+2025-02-10 12:57:25.950 [INFO] [main] [BasePage] - Element Password has been entered
+2025-02-10 12:57:26.088 [INFO] [main] [BasePage] - Element Login Button has been clicked
+2025-02-10 12:57:29.385 [INFO] [main] [BasePage] - Element 'Profile' is visible
+2025-02-10 12:57:29.622 [INFO] [main] [BasePage] - Element Home has been clicked
+2025-02-10 12:57:31.012 [INFO] [main] [BasePage] - Element Combination Pliers has been clicked
+2025-02-10 12:57:32.465 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:57:32.632 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:57:32.925 [INFO] [main] [BasePage] - Element Home has been clicked
+2025-02-10 12:57:34.388 [INFO] [main] [BasePage] - Element Bolt Cutters has been clicked
+2025-02-10 12:57:35.809 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:57:35.997 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:58:43.546 [INFO] [main] [Utils] - [TestNG] Running:
+  C:\Users\TshifhiwaSinugo\AppData\Local\JetBrains\Aqua2024.1\temp-testng-customsuite.xml
+
+2025-02-10 12:58:50.005 [INFO] [main] [TestBase] - Setup initialized successfully.
+2025-02-10 12:58:50.168 [INFO] [main] [BasePage] - Element Sign in Link has been clicked
+2025-02-10 12:58:50.476 [INFO] [main] [BasePage] - Element Email has been entered
+2025-02-10 12:58:50.586 [INFO] [main] [BasePage] - Element Password has been entered
+2025-02-10 12:58:50.703 [INFO] [main] [BasePage] - Element Login Button has been clicked
+2025-02-10 12:58:56.320 [INFO] [main] [BasePage] - Element 'Profile' is visible
+2025-02-10 12:58:56.824 [INFO] [main] [BasePage] - Element Home has been clicked
+2025-02-10 12:58:58.171 [INFO] [main] [BasePage] - Element Combination Pliers has been clicked
+2025-02-10 12:58:59.617 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:58:59.882 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:59:00.241 [INFO] [main] [BasePage] - Element Home has been clicked
+2025-02-10 12:59:01.808 [INFO] [main] [BasePage] - Element Bolt Cutters has been clicked
+2025-02-10 12:59:10.440 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:59:10.690 [INFO] [main] [BasePage] - Element Add to Cart has been clicked
+2025-02-10 12:59:13.522 [INFO] [main] [BasePage] - Element Add to Cart Link has been clicked
+2025-02-10 12:59:15.128 [INFO] [main] [BasePage] - Element Proceed to Checkout has been clicked
+2025-02-10 12:59:15.422 [INFO] [main] [BasePage] - Element Proceed to Checkout has been clicked
+2025-02-10 12:59:16.776 [INFO] [main] [BasePage] - Element Proceed to Checkout has been clicked
+2025-02-10 12:59:17.054 [INFO] [main] [BasePage] - Element Payment Type has been selected using 'Visible Text' 
+2025-02-10 12:59:17.341 [INFO] [main] [BasePage] - Element Credit card number has been entered
+2025-02-10 12:59:17.410 [INFO] [main] [BasePage] - Element Expiration date has been entered
+2025-02-10 12:59:17.549 [INFO] [main] [BasePage] - Element Enter cvv has been entered
+2025-02-10 12:59:17.768 [INFO] [main] [BasePage] - Element Card holder has been entered
+2025-02-10 12:59:18.007 [INFO] [main] [BasePage] - Element Confirm has been clicked
+2025-02-10 12:59:19.249 [INFO] [main] [BasePage] - Element 'Payment success message' is visible
+2025-02-10 12:59:19.249 [INFO] [main] [BuyItemsTests] - Checkout successful

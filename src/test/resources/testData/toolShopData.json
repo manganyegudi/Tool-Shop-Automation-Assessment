@@ -1,0 +1,22 @@
+{
+  "Registration": {
+    "firstName": "Gudani",
+    "lastName": "Manganye",
+    "dateOfBirth": "1996/01/26",
+    "address": "14th Rd, Noordwyk, Midrand",
+    "postCode": "1687",
+    "city": "Midrand",
+    "state": "Gauteng",
+    "country": "South Africa",
+    "phone": "0725348968",
+    "email": "${email}",
+    "password": "${password}"
+  },
+  "PaymentInformation": {
+    "paymentMethod": "Credit Card",
+    "cardNumber": "5425-2334-3010-9903",
+    "expiryDate": "04/2028",
+    "cvv":"781",
+    "cardHolder": "Mr G Manganye"
+  }
+}
